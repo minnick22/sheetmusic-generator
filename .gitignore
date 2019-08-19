@@ -1,1 +1,3 @@
 .idea*
+sheetmusic-generator/bin/Debug
+output/*

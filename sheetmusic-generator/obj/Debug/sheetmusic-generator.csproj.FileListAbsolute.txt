@@ -4,3 +4,4 @@ C:\Users\Mike\Desktop\sheetmusic-generator\sheetmusic-generator\obj\Debug\sheetm
 C:\Users\Mike\Desktop\sheetmusic-generator\sheetmusic-generator\obj\Debug\sheetmusic-generator.csproj.CoreCompileInputs.cache
 C:\Users\Mike\Desktop\sheetmusic-generator\sheetmusic-generator\obj\Debug\sheetmusic_generator.exe
 C:\Users\Mike\Desktop\sheetmusic-generator\sheetmusic-generator\obj\Debug\sheetmusic_generator.pdb
+C:\Users\Mike\Desktop\sheetmusic-generator\sheetmusic-generator\bin\Debug\sheetmusic_generator.exe.config
